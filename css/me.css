@@ -5,11 +5,17 @@ body
 
 h1
     {   
+        
         font-family: monospace;
         color: darkgreen;
         margin-left: 60px;
         margin-top: 100px;
         
+    }
+
+h2  
+    {
+        text-decoration: underline;
     }
 
 .work 
@@ -59,17 +65,49 @@ img
     {
         margin-left: 40px;
         color: darkgreen;
-        text-transform: uppercase;
+        text-decoration: underline;
+        
     }
 
 table 
-    {   
+    {   background-color: darkolivegreen;
         width: 50%;
+        font-family: monospace;
         
     }
 
 table, th, td
     {
-        border: 2px solid darkolivegreen
+        border: 2px solid darkolivegreen;
+        border-color: #ffe4c4;
     }
 
+.details ul 
+    {   background-color: darkolivegreen;
+        color: black;
+        float: left;
+        margin-top: -550px;
+        margin-right: 20px;
+        padding-bottom: 50px;
+        padding-right: 40px;
+    }
+
+.details li 
+    {
+        color:black;
+        font-family: monospace;
+        font-size: 20px;
+        line-height: 30px;
+    }
+ 
+.details ul h2 
+    {
+        margin-right: 50px;
+        color: black;
+    }
+
+.imp
+    {
+        color: #0934c2;
+        font-style: italic;
+    }
