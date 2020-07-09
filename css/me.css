@@ -1,0 +1,22 @@
+body 
+    {
+        background-color: #ffe4c4;
+    }
+
+h1
+    {   
+        font-family: monospace;
+        color: darkgreen;
+        margin-left: 40px;
+        margin-top: 80px;
+        
+    }
+
+.work 
+    {   font-family: serif;
+        font-size: 12px;
+        color: #2367c0;
+        margin-left:105px ;
+        text-transform: uppercase;
+
+    }
