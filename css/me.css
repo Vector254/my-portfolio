@@ -2,6 +2,11 @@ body
     {
         background-color: #ffe4c4;
         font-family: monospace;
+        border-style: solid;
+        border-width: 20px;
+        border-radius: 10px;
+        margin:-2px;
+        border-color: darkolivegreen;
     }
 
 h1
@@ -107,4 +112,24 @@ table, th, td
     {
         color: #0934c2;
         font-style: italic;
+    }
+
+.up
+    {   
+        background-color: darkolivegreen;
+        border-color: darkolivegreen;
+        overflow:hidden;
+       
+    }
+
+.up li 
+    {   
+        text-align: center;
+        padding:10px;
+        float: left;
+        margin-left: 150px;
+        line-height: 20px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-bottom: -100px;
     }
