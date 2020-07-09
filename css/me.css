@@ -1,12 +1,12 @@
 body 
     {
         background-color: #ffe4c4;
+        font-family: monospace;
     }
 
 h1
     {   
         
-        font-family: monospace;
         color: darkgreen;
         margin-left: 60px;
         margin-top: 100px;
@@ -42,7 +42,7 @@ img
     }
 
 .projects
-    {   font-family: monospace;
+    {  
         color: darkgreen;
         margin-top: -330px;
         padding-right: 40px;
@@ -54,7 +54,6 @@ img
 .about
     {   
         background-color: darkolivegreen;
-        font-family: monospace;
         text-align: center;
         margin-top: -20px;
         padding-top: 5px;
@@ -72,7 +71,6 @@ img
 table 
     {   background-color: darkolivegreen;
         width: 50%;
-        font-family: monospace;
         
     }
 
@@ -88,14 +86,13 @@ table, th, td
         float: left;
         margin-top: -550px;
         margin-right: 20px;
-        padding-bottom: 50px;
+        padding-bottom: 80px;
         padding-right: 40px;
     }
 
 .details li 
     {
         color:black;
-        font-family: monospace;
         font-size: 20px;
         line-height: 30px;
     }
