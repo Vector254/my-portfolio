@@ -32,3 +32,13 @@ img
         border-width: 5px;
         border-radius: 10px;
     }
+
+.projects
+    {   font-family: monospace;
+        color: darkgreen;
+        margin-top: -100px;
+        padding-right: 40px;
+        float: right;
+        line-height: 30px;
+        font-weight: bold;
+    }
