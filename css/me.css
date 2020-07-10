@@ -50,11 +50,20 @@ img
     {  
         color: darkgreen;
         margin-top: -330px;
-        padding-right: 40px;
+        padding-right: 20px;
         float: right;
         line-height: 30px;
         font-weight: bold;
     }
+
+.projects h2   
+    {
+        background-color: darkolivegreen;
+        color:  #ffe4c4;
+        padding-left: 30px;
+        padding-right: 100px;
+
+    }   
 
 .about
     {   
