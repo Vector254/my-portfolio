@@ -1,5 +1,5 @@
 #  My portfolio landing page
-### A portfolio landing page created by *vector*}, {created on 7th july 2020
+### A portfolio landing page created by *vector*, created on 7th july 2020
 #### By **Victor Nduati**
 ## Description
 This is a sample site created while learning html and css web development languages.
