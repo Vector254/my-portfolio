@@ -5,8 +5,9 @@ body
         border-style: solid;
         border-width: 20px;
         border-radius: 10px;
-        margin:-2px;
         border-color: darkolivegreen;
+        padding-bottom:10px;
+    
     }
 .heading 
     {
@@ -16,7 +17,7 @@ body
         font-size: 30px;
         text-align: center;
         border-style: solid;
-        margin-left:350px;
+        margin-left:35%;
         border-width: 10px;
         border-radius: 10px;
 
@@ -40,7 +41,7 @@ h2
     {   font-family: serif;
         font-size: 12px;
         color: #2367c0;
-        margin-left:90px ;
+        margin-left:5% ;
         margin-top: -200px;
         text-transform: uppercase;
         padding-bottom: 50px;
@@ -49,10 +50,10 @@ h2
 
 img 
     {   position: sticky;
-        margin-top: -80px;
+        margin-top: -10%;
         width: 330px;
         height: 300px;
-        margin-left:300px;
+        margin-left:30%;
         border-style: solid;
         border-color:darkolivegreen;
         border-width: 5px;
@@ -125,9 +126,8 @@ table, th, td
     }
  
 .details ul h2 
-    {
-        margin-right: 50px;
-        color: black;
+    {   
+        color: #ffe4c4;
     }
 
 .imp
@@ -165,40 +165,6 @@ table, th, td
         padding-right: 100px;
     }
 
-@media screen and (orientation:portrait) {
-        body {
-            width: 50%;
-            text-align: center;
-            background-color: #76ac76;
-            color: white;
-            font-size: 10px;
-            display: block;
-        }
-        div.form
-        {
-            float: left;
-            margin:0px;
-            margin-top:5px;
-        }
-        h1 
-        {
-            text-align: right;
-            padding-left: 100px;
-            padding-bottom: 100px;
-            margin-top:-3px;
-            padding-right: 5px;
-        }
-        span.work{
-            display: none;
-
-        }
-        .projects
-        {
-            line-height: 15px;
-        
-    
-        }
-    }
 .exp h2 
     {   text-align: center;
         color: darkolivegreen;
@@ -207,4 +173,9 @@ table, th, td
     {
         text-indent: 10px;
     }
-      
+
+@media screen and (orientation:portrait) {
+        body {
+            background-color: darkred;
+        }
+    }
