@@ -161,7 +161,7 @@ table, th, td
        
         float: right;
         color: darkolivegreen;
-        margin-top:-230px;
+        margin-top:-580px;
         padding-right: 100px;
     }
 
@@ -198,5 +198,9 @@ table, th, td
         
     
         }
+    }
+.exp h2 
+    {   text-align: center;
+        color: darkolivegreen;
     }
       
