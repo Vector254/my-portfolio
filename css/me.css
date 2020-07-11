@@ -183,31 +183,47 @@ table, th, td
         .form 
             {
                 text-align: left;
-                margin-top: 40px;
+                margin-top: 5px;
                 margin-left: -20px;
                 
             }
         img
             {
                 width: 30%;
-                height:30%;
+                height:35%;
                 padding-bottom: 20px;
-                margin-left: -1em ;
-                margin-top: 1em;
-               
+                margin-left: 20em ;
+                margin-top: 2em;
+                margin-bottom: 5em;
+                
+        
                 
             }
         .projects
             {
-            color: darkred;
-              padding: 20em; 
-              padding-top: 50px ; 
-              padding: right: 2px;
-              display: none;
+              position: absolute;
+              color: darkolivegreen;
+              padding-top: 100px ; 
+              padding: right: -10px;
+              text-align: right;
+              margin-left:-4em;
+              
             }
         .about 
             {
                 color: darkseagreen;
+                margin-top: 18em;
                 
+            }
+        h1
+            {   display: none;
+            }
+        .work 
+            {
+                display: none;
+            }
+        .details li
+            {
+               margin-bottom: -10px; 
             }
     }
