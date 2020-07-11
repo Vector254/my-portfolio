@@ -8,6 +8,19 @@ body
         margin:-2px;
         border-color: darkolivegreen;
     }
+.heading 
+    {
+        color: #ffe4c4;
+        background-color: darkolivegreen;
+        font-weight: 30px;
+        font-size: 30px;
+        text-align: center;
+        border-style: solid;
+        margin-left:350px;
+        border-width: 10px;
+        border-radius: 10px;
+
+    }
 
 h1
     {   
@@ -182,7 +195,7 @@ table, th, td
         .projects
         {
             line-height: 15px;
-            margin-bottom: 5px;
+        
     
         }
     }
